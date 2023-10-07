@@ -81,7 +81,7 @@
         "lowdb": "^3.0.0",
         "mime-types": "^2.1.34",
         "moment-timezone": "^0.5.41",
-        "mongoose": "^7.0.0",
+        "mongoose": "^7.6.0",
         "nekos.life": "^2.0.7",
         "node-fetch": "^3.2.0",
         "node-gtts": "^2.0.2",
