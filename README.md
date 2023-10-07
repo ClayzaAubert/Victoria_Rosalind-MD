@@ -1,20 +1,11 @@
 <p align="center">
-    <img src="./media/own.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./src/Victoria-V3-min.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nao-Botz V5</h1>
+<h1 align="center">Victoria Rosalind V4.2</h1>
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
-
-##
-<p align="center">
-<a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
-
-##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285864034767&text=.menu) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174269046) 
-
+<a href="https://github.com/ClayzaAubert"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ClayzaAubert-green.svg?style=for-the-badge&logo=github"></a>
 
 
 ## NOTE BEFORE USING!!
@@ -32,7 +23,6 @@
 - ✔️ | **No Button** 
 - ✔️ | **Multi Device** 
 - ✔️ | **Plugins** 
-- ✔️ | **99% Scrape Feature** 
 ---------
 ### Some of the features include
 - ✔️ | Menfess
@@ -41,15 +31,24 @@
 - ✔️ | AI Feature (ChatGPT/DALL-E/MidJourney/To Anime)
 - ✔️ | Sticker 
 - ✔️ | Downloader 
-- ✔️ | Quotes
 - ✔️ | Anime 
 - ✔️ | Premium 
-- ✔️ | Tools 
+- ✔️ | Tools
+- ✔️ | RPG Games (Auto leveling & story mirip games RPG)
+- ✔️ | VoiceVox
+- ✔️ | Anti Sticker
+- ✔️ | Anti Foto
+- ✔️ | Anti Audio
+- ✔️ | Anti Bot
+- ✔️ | Welcome (NEW UI)
+- ✔️ | Info Menu
+- ✔️ | Games Menu
+- ✔️ | Internet Menu 
 ---------
 
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShirokamiRyzen/Nao-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ClayzaAubert/Victoria_Rosalind-MD)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -81,10 +80,9 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git clone https://github.com/ClayzaAubert/Victoria_Rosalind-MD
+cd Victoria_Rosalind-MD
 npm install
-npm update
 ```
 
 ---------
@@ -97,18 +95,16 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git https://github.com/ClayzaAubert/Victoria_Rosalind-MD
+cd Victoria_Rosalind-MD
 npm install
-npm update
 ```
-
 ---------
 
 ## Run 🏃
 
 ```bash
-node .
+npm start
 ```
 
 ---------
@@ -156,8 +152,8 @@ Set prefix
 ### 📮 S&K
 1. Jangan diperjual belikan Script ini
 2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
 4. Jangan salah gunakan script ini!
+5. API dari https://api.clayzaaubert.my.id
 
 ---------
 
@@ -166,9 +162,11 @@ Set prefix
 [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets/Baileys)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![ImYanXiao](https://github.com/ImYanXiao.png?size=100)](https://github.com/ImYanXiao)
-[![Xnuvers007](https://github.com/Xnuvers007.png?size=100)](https://github.com/Xnuvers007)
 [![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
+[![Zeltoria](https://github.com/Zeltoria.png?size=100)](https://github.com/Zeltoria)
+[![ClaraAubert](https://github.com/ClaraAubert.png?size=100)](https://github.com/ClaraAubert)
 #### Contributor
-[![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
+[![ClaraAubert](https://github.com/ClaraAubert.png?size=100)](https://github.com/ClaraAubert)
+[![ClayzaAubert](https://github.com/ClayzaAubert.png?size=100)](https://github.com/ClayzaAubert)
 
 ---------
