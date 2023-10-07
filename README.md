@@ -165,8 +165,10 @@ Set prefix
 [![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
 [![Zeltoria](https://github.com/Zeltoria.png?size=100)](https://github.com/Zeltoria)
 [![ClaraAubert](https://github.com/ClaraAubert.png?size=100)](https://github.com/ClaraAubert)
-#### Contributor
-[![ClaraAubert](https://github.com/ClaraAubert.png?size=100)](https://github.com/ClaraAubert)
 [![ClayzaAubert](https://github.com/ClayzaAubert.png?size=100)](https://github.com/ClayzaAubert)
 
 ---------
+### Contributor
+1. Clara Aubert (Recode)
+2. Amelia Aubert (Story RPG)
+3. Clayza Aubert (Recode)
