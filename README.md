@@ -17,6 +17,9 @@
 - Jika sebagian fitur ada yang tidak berfungsi, beli API key lu sendiri
 - OpenAI perlu Api key jadi lu harus sediain sendiri
 
+## NOTE ADMIN
+- Ini adalah versi lama, versi terbaru ada di https://youtube.com/@ClayzaAubert
+
 
 ### a little about this bot
 - ✔️ | **Simple** 
